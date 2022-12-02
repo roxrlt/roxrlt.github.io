@@ -8,6 +8,10 @@ h2{
   font-family: 'Space Grotesk', sans-serif !important;
 }
 
+.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link{
+  font-family: 'Space Grotesk', sans-serif !important;
+}
+
 body{
   font-family: 'Space Grotesk', sans-serif !important;
 }
