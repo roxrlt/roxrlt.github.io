@@ -15,3 +15,7 @@ h2{
 body{
   font-family: 'Space Grotesk', sans-serif !important;
 }
+
+.header-section  {
+  margin-bottom: 30px !important;
+}
