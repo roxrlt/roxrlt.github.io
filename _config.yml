@@ -14,7 +14,7 @@ author: Roxane Rouault
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Me concernant: "à propos"
+  Me concernant: "aboutme"
 #  Resources:
 #   - Beautiful Jekyll: "https://roxrlt.github.io/"
 #   - Learn markdown: "https://roxrlt.github.io/"
