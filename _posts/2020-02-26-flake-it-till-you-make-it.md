@@ -3,7 +3,7 @@ layout: post
 title: 3D Porshe 944
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/IMG-0138.JPG
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/IMG-0138.JPG
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
