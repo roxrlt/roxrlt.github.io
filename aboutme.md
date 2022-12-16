@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Me Concernant
+subtitle: Étudiante en 3ème année de DNMADE DESIGN NUMÉRIQUE
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Je suis Roxane Rouault. Je maîtrise plusieurs domaines de création numérique :
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Le Motion Desing
+- L'animation 2D & 3D
+- La création 3D
+- Le montage vidéo & photo
+- Le design d'interface (UX/UI)
+- L'illustration & mise en page
 
-What else do you need?
+et pleins d'autres choses...
 
-### My story
+### Bon voyage !
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Je vous souhaite un bon voyage dans mon unnivers graphique, je vous laisse [Mon behance](https://www.behance.net/roxyrouaula81e) pour voir **toutes** mes évolutions.
