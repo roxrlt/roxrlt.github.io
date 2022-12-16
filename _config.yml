@@ -15,10 +15,10 @@ author: Roxane Rouault
 
 navbar-links:
   Me concernant: "à propos"
-  Resources:
-    - Beautiful Jekyll: "https://roxrlt.github.io/"
-    - Learn markdown: "https://roxrlt.github.io/"
-  Author's home: "https://roxrlt.github.io/"
+#  Resources:
+#   - Beautiful Jekyll: "https://roxrlt.github.io/"
+#   - Learn markdown: "https://roxrlt.github.io/"
+#  Author's home: "https://roxrlt.github.io/"
 
 # --- Logo --- #
 
