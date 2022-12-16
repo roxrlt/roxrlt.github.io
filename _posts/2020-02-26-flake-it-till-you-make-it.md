@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Flake it till you make it
+title: 3D Porshe 944
 subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/IMG-0138.JPG
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
