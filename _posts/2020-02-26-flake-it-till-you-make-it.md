@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3D Porshe 944
+title: Modélisation 3D Porshe 944
 subtitle: Excerpt from Soulshaping by Jeff Brown
 cover-img: /assets/img/IMG-0138.JPG
 thumbnail-img: /assets/img/IMG-0138.JPG
