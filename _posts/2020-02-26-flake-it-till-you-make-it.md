@@ -8,3 +8,4 @@ share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
 
+Création d'une Porsche 944 à partir d'une photo réelle. Plusieurs procédés ont été suivis : modeling, texturing et lighting.
